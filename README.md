@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/prakashbahadurchand/prakashbahadurchand/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/prakashbahadurchand/prakashbahadurchand/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
 
 
 
