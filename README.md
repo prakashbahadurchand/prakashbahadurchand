@@ -3,7 +3,7 @@
 
 
 ### Hi there, I am Prakash Bahadur Chand 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakashbahadurchand/)](https://www.linkedin.com/in/prakashbahadurchand/)
+[![Linkedin Badge](https://img.shields.io/badge/-prakashbahadurchand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakashbahadurchand/)](https://www.linkedin.com/in/prakashbahadurchand/)
 [![Gmail Badge](https://img.shields.io/badge/-prakashbahadurchand@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prakashbahadurchand@gmail.com)](mailto:prakashbahadurchand@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://prakashbahadurchand.github.io/)
