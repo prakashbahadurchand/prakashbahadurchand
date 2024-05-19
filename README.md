@@ -36,10 +36,15 @@
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=android-studio&logoColor=3DDC84)
+![Xcode](https://img.shields.io/badge/-Xcode-000000?style=flat&logo=xcode&logoColor=1575F9)
 
 ![CI/CD](https://img.shields.io/badge/-CI/CD-000000?style=flat&logo=github-actions&logoColor=2088FF)
-![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins&logoColor=D24939)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=2496ED)
+![Fastlane](https://img.shields.io/badge/-Fastlane-000000?style=flat&logo=fastlane&logoColor=00F200)
+
+![Embedded](https://img.shields.io/badge/-Embedded-000000?style=flat&logo=arduino&logoColor=00979D)
+![IoT](https://img.shields.io/badge/-IoT-000000?style=flat&logo=raspberry-pi&logoColor=A22846)
+
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=F24E1E)
 
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
